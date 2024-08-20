@@ -1,0 +1,41 @@
+/* 4-External */
+body{
+    padding-bottom: 500px;
+}
+h3{
+    color: green;
+}
+
+/* Classes */
+ .paragraph {
+    background-color: aquamarine;
+ }
+
+ /* Ids */
+ #exclusive-title {
+    background-color: rgb(165, 42, 42);
+    color: blanchedalmond;
+ }
+
+ #rgba {
+    color: rgb(102, 102, 232, 0.3 );
+ }
+
+ .bg-opacity {
+    background-color: rgb(33, 83, 28, 0.2);
+
+ }
+
+ #texto-op {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+ }
+
+ .bg-image {
+    color: aliceblue;
+    background-image: url("../3_section/imgs/download.webp");
+    padding: 20px;
+    background-position: center;
+    background-size: contain;
+ }
