@@ -1,0 +1,29 @@
+#boxmodel{
+    padding: 8px 10px 9px 11px;
+    width: 200px;
+    height: 50px;
+    margin: 10px;
+    border: 3px solid rgb(254, 64, 159);
+    outline:3px solid rgb(255, 152, 203) ;
+    border-radius: 5px;
+    box-sizing:content-box;
+    background-color: hotpink;
+    color: gold;
+    text-align: center;
+    font-weight: bolder;
+    font-size: large;
+    position:relative;
+    left: 150px;
+
+}
+
+.texto{
+background-color: dodgerblue;
+color: aliceblue;
+padding: 15px;
+border: 3px;
+border-radius: 5px;
+text-align: center;
+position: sticky;
+
+}
